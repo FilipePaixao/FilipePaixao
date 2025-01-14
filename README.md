@@ -178,18 +178,6 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
 
 <br/>
 
-### 📊 Contribuições Históricas
-<p align="center">
-    <img 
-        alt="Contribuições Históricas" 
-        title="Contribuições de todos os anos" 
-        src="https://ghchart.rshah.org/Filipeiwnl" 
-        style="background-color: white; border-radius: 8px; padding: 5px;"
-    />
-    <span align="center" style="display: block; margin-top: 10px; font-weight: bold; font-size: 16px;">
-        Total de Contribuições: <!-- Inserir número manualmente ou via API -->
-    </span>
-</p>
 
 ### 🌍 Redes e Links Relevantes
 <ul>
