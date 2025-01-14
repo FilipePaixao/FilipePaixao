@@ -179,8 +179,4 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
 <br/>
 
 
-### 🌍 Redes e Links Relevantes
-<ul>
-    <li><a href="https://github.com/Filipeiwnl">Meu GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/filipe-paixao/">Meu LinkedIn</a></li>
-</ul>
+
