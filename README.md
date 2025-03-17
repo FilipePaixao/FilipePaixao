@@ -3,7 +3,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. Com habilidades em Node.js, Express, C++, Python, Flask, MongoDB, PostgreSQL, Docker, Java, também sou um entusiasta em soluções cloud como AWS e Azure. Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
+Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. Com habilidades em  TypeScript, javaScript, node.js, C++, Python, Java, MongoDB, PostgreSQL,Docker ,também sou um entusiasta em soluções cloud como AWS e Azure. Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
 
 <p align="left">
     <a href="https://github.com/FilipePaixao?tab=repositories&sort=stargazers">
