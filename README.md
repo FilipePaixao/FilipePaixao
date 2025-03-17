@@ -6,14 +6,14 @@
 Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. Com habilidades em Node.js, Express, C++, Python, Flask, MongoDB, PostgreSQL, Docker, Java, também sou um entusiasta em soluções cloud como AWS e Azure. Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
 
 <p align="left">
-    <a href="https://github.com/Filipeiwnl?tab=repositories&sort=stargazers">
+    <a href="https://github.com/FilipePaixao?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/Filipeiwnl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Filipeiwnl?tab=followers">
+    <a href="https://github.com/FilipePaixao?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
