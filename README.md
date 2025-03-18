@@ -10,14 +10,14 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Filipeiwnl?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/FilipePaixao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
     <a href="https://github.com/FilipePaixao?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Filipeiwnl?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/FilipePaixao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
     <a href="https://www.linkedin.com/in/filipe-paixao/">
@@ -157,7 +157,7 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
       alt="Linguagens mais usadas" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaixao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaixao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
   />
 </p>
 
