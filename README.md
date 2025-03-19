@@ -20,7 +20,7 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
             src="https://custom-icon-badges.demolab.com/github/followers/FilipePaixao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
-    <a href="https://www.linkedin.com/in/filipe-paixao/">
+    <a href="https://www.linkedin.com/in/filipe-paixão/">
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
