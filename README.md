@@ -1,7 +1,7 @@
 <!-- README.md -->
 # Filipe Paixão
 
-**`Desenvolvedor Backend`**
+**`Software Engineer Backend`**
 
 Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. Com habilidades em  TypeScript, javaScript, node.js, C++, Python, Java, MongoDB, PostgreSQL,Docker ,também sou um entusiasta em soluções cloud como AWS e Azure. Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
 
