@@ -41,14 +41,7 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Express" 
-    title="Express" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="C++" 
@@ -130,15 +123,6 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Qt" 
-    title="Qt" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" 
-/>
-
 <br/>
 <br/>
 
