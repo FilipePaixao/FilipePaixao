@@ -124,17 +124,9 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
 />
 <br/>
-<br/>
-
-### 🔷 Estatísticas
-
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=FilipePaixao&theme=tokyonight" 
-  alt="GitHub Streak"
-/>
 
 
-<br/>
+
 
 
 
