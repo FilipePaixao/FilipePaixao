@@ -128,11 +128,10 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
 
 ### 🔷 Estatísticas
 <img 
-  align="left" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=FilipePaixao&show_icons=true&theme=tokyonight&custom_title=Estatísticas%20GitHub"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=FilipePaixao&theme=tokyonight" 
+  alt="GitHub Streak"
 />
+
 
 
 <br/>
