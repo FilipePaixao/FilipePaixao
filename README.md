@@ -127,12 +127,11 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
 <br/>
 
 ### 🔷 Estatísticas
+
 <img 
   src="https://github-contributions.vercel.app/api?username=FilipePaixao&year=2025" 
   alt="Contribuições em 2025" 
 />
-
-
 
 
 <br/>
