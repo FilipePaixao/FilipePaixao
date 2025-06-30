@@ -127,16 +127,13 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
 <br/>
 
 ### 🔷 Estatísticas
+<img 
+  align="left" 
+  height="200" 
+  style="padding-right: 10px;" 
+  src="https://github-readme-stats.vercel.app/api?username=FilipePaixao&show_icons=true&theme=tokyonight&custom_title=Estatísticas%20GitHub"
+/>
 
-<p>
-  <img 
-      align="left" 
-      alt="Linguagens mais usadas" 
-      height="200" 
-      style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=FilipePaixao&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
-  />
-</p>
 
 <br/>
 
