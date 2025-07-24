@@ -3,23 +3,10 @@
 
 **`Software Engineer Backend`**
 
-Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. Com habilidades em  TypeScript, javaScript, node.js, C++, Python, Java, MongoDB, PostgreSQL,Docker ,também sou um entusiasta em soluções cloud como AWS e Azure. Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
+Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. </br>
+Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
 
 <p align="left">
-    <a href="https://github.com/FilipePaixao?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/FilipePaixao?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/FilipePaixao?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/FilipePaixao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
     <a href="https://www.linkedin.com/in/filipe-paixão/">
         <img 
             alt="LinkedIn" 
@@ -93,27 +80,11 @@ Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em 
 />
 <img 
     align="left" 
-    alt="Spring Boot" 
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
     alt="TypeScript" 
     title="TypeScript" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
     align="left" 
