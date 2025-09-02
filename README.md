@@ -3,7 +3,7 @@
 
 **`Software Engineer Backend`**
 
-Me chamo Filipe Paixão, sou apaixonado por tecnologia e possuo experiência em desenvolvimento backend. </br>
+Me chamo Filipe Paixão, sou apaixonado por tecnologia, possuo experiência em desenvolvimento backend. </br>
 Estou sempre buscando compartilhar conhecimento, valorizo colaboração e soluções inovadoras.
 
 <p align="left">
