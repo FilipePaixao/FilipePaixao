@@ -12,7 +12,8 @@ I’m a backend software engineer passionate about building reliable and scalabl
 My work focuses on **event-driven microservices**, **Clean Architecture**, and **data consistency** across distributed environments.  
 I enjoy solving complex problems with clear and maintainable solutions.
 
-Lately, I’ve been exploring **functional programming with Clojure** and studying **Datomic’s approach to immutable data storage** — diving deeper into persistence models and temporal databases.
+Lately, I’ve been exploring **functional programming with Clojure** and studying **Datomic’s approach to immutable data storage** — 
+diving deeper into persistence models and temporal databases.
 
 ---
 
