@@ -17,7 +17,7 @@ diving deeper into persistence models and temporal databases.
 
 ---
 
-### ⚙️ Tech Stack
+### Tech Stack
 
 #### Core & Languages
 <p>
@@ -37,7 +37,7 @@ diving deeper into persistence models and temporal databases.
 
 ---
 
-### 🧩 Principles
+### Principles
 
 - Clean Architecture & Domain-Driven Design  
 - Event-driven communication (Kafka)  
@@ -49,7 +49,7 @@ diving deeper into persistence models and temporal databases.
 
 ---
 
-### 🌐 Connect
+###  Connect
 
 <p>
   <a href="https://www.linkedin.com/in/filipe-paixão/" target="_blank">
