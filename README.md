@@ -1,146 +1,219 @@
-<h1 align="center">Filipe Paixão</h1>
 
-<p align="center">
-  <strong> Software Engineer • Engineering Manager • Distributed Systems</strong>
-</p>
+<div align="center">
 
-<p align="center">
-Building scalable event-driven platforms with Node.js, TypeScript, Kafka and AWS.
-</p>
+# Filipe Paixão
 
----
+### Tech Manager && Software Engineer · Backend & Distributed Systems · Applied AI
 
-## 🚀 Highlights
+**Building reliable software systems that solve complex problems and deliver measurable business impact.**
 
-- ⚡ Designing scalable event-driven architectures
-- 📨 Building resilient microservices with Apache Kafka
-- ☁️ Optimizing cloud infrastructure and distributed systems
-- 🏗️ Applying Clean Architecture and Domain-Driven Design
-- 🤖 Driving AI-assisted software engineering practices
-- λ Exploring Functional Programming with Clojure & Datomic
+<a href="https://www.linkedin.com/in/filipe-paixão/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a Software Engineer passionate about designing scalable, resilient and distributed systems.
+I'm a **Senior Software Engineer** focused on designing, building, and evolving distributed systems, particularly in **fintech, financial infrastructure, and cloud-native applications**.
 
-My experience is centered around backend engineering with **Node.js**, **TypeScript**, **Apache Kafka**, **MongoDB**, and **AWS**, building event-driven microservices with a strong focus on reliability, maintainability, and business impact.
+My core expertise lies in **backend engineering**, working with **Node.js, TypeScript, Apache Kafka, MongoDB, and AWS** to build scalable, event-driven platforms.
 
-Beyond implementation, I enjoy leading technical initiatives, improving engineering practices, mentoring teams, and making architectural decisions that simplify complex systems while enabling sustainable growth.
+I've also worked in engineering leadership, guiding architectural decisions, mentoring developers, and improving engineering practices across teams.
 
-I'm particularly interested in:
+I believe engineering goes beyond writing code. It's about understanding the business problem, making thoughtful architectural decisions, and building systems that are reliable, maintainable, and economically sustainable.
 
-- Distributed Systems
-- Event-Driven Architecture
-- Microservices
-- Domain-Driven Design
-- Clean Architecture
-- Cloud Infrastructure
-- High-throughput Messaging
-- Developer Experience
-- Engineering Leadership
-
-Outside of work, I enjoy studying **Functional Programming**, especially **Clojure** and **Datomic**, exploring immutable data models, temporal databases, and alternative approaches to software design.
+Currently, I'm particularly interested in the intersection of **Distributed Systems, Financial Technology, and Applied AI**.
 
 ---
 
-## 🛠️ Tech Stack
+## Selected Engineering Impact
 
-### Languages
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Financial Systems & Billing</h3>
+      <p>Designed and delivered a consolidated billing architecture for complex installment-based payment flows.</p>
+      <ul>
+        <li><b>10,000+</b> financial installments consolidated</li>
+        <li><b>BRL 132K+</b> in billing-cycle volume</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Financial Infrastructure</h3>
+      <p>Led architectural and contractual improvements to financial infrastructure.</p>
+      <ul>
+        <li><b>BRL 200K+</b> in annual cost savings</li>
+        <li>Simplified financial integrations</li>
+        <li>Improved operational consistency and traceability</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Reliability & Observability</h3>
+      <p>Implemented observability and reliability practices across distributed services.</p>
+      <ul>
+        <li><b>20+</b> instrumented services</li>
+        <li>Distributed tracing and correlation IDs</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Applied AI & Productivity</h3>
+      <p>Built AI-assisted analytics workflows using natural language and Amazon Athena.</p>
+      <ul>
+        <li><b>24 hours/month</b> of engineering effort saved</li>
+        <li>Natural language business analytics</li>
+        <li>MCP integrations and AI-assisted workflows</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+## Technical Expertise
+
+### Languages & Runtime
 
 <p>
-  <img alt="Node.js" title="Node.js" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-  <img alt="TypeScript" title="TypeScript" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>
-  <img alt="Java" title="Java" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-  <img alt="C++" title="C++" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img alt="Clojure" title="Clojure" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/clojure/clojure-original.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="42" height="42" alt="Java" title="Java"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clojure/clojure-original.svg" width="42" height="42" alt="Clojure" title="Clojure"/>
 </p>
 
-### Backend & Architecture
-
-- Node.js
-- TypeScript
-- REST APIs
-- Event-Driven Architecture
-- Apache Kafka
-- Microservices
-- Domain-Driven Design (DDD)
-- Clean Architecture
-
-### Data
+### Backend & Distributed Systems
 
 <p>
-  <img alt="MongoDB" title="MongoDB" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img alt="PostgreSQL" title="PostgreSQL" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" alt="Apache Kafka"/>
+  <img src="https://img.shields.io/badge/REST_APIs-333333?style=flat-square" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/Microservices-333333?style=flat-square" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/Event--Driven_Architecture-333333?style=flat-square" alt="Event-Driven Architecture"/>
+  <img src="https://img.shields.io/badge/Domain--Driven_Design-333333?style=flat-square" alt="Domain-Driven Design"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-333333?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Idempotency-333333?style=flat-square" alt="Idempotency"/>
 </p>
 
-- MongoDB
-- PostgreSQL
-- Atlas Search
-- Aggregation Pipelines
-
-### Cloud & Infrastructure
+### Data & Storage
 
 <p>
-  <img alt="Docker" title="Docker" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
-  <img alt="Kubernetes" title="Kubernetes" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"/>
-  <img alt="Amazon Web Services" title="AWS" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="42" height="42" alt="Redis" title="Redis"/>
 </p>
 
-- AWS
-- Docker
-- Kubernetes
-- CI/CD
-- GitHub Actions
+<p>
+  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB Atlas"/>
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="Amazon Athena"/>
+  <img src="https://img.shields.io/badge/Aggregation_Pipelines-333333?style=flat-square" alt="Aggregation Pipelines"/>
+</p>
+
+### Cloud, Infrastructure & Observability
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="52" height="42" alt="AWS" title="AWS"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" width="42" height="42" alt="Kubernetes" title="Kubernetes"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="42" height="42" alt="GitHub Actions" title="GitHub Actions"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="42" height="42" alt="Grafana" title="Grafana"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-333333?style=flat-square" alt="CI/CD"/>
+  <img src="https://img.shields.io/badge/Distributed_Tracing-333333?style=flat-square" alt="Distributed Tracing"/>
+  <img src="https://img.shields.io/badge/Cloud_Native-333333?style=flat-square" alt="Cloud Native"/>
+</p>
+
+### AI & Developer Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Cursor-222222?style=flat-square&logo=cursor&logoColor=white" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/MCP-333333?style=flat-square" alt="Model Context Protocol"/>
+  <img src="https://img.shields.io/badge/AI_Agents-333333?style=flat-square" alt="AI Agents"/>
+  <img src="https://img.shields.io/badge/LLM_Integrations-333333?style=flat-square" alt="LLM Integrations"/>
+  <img src="https://img.shields.io/badge/Multi--Agent_Workflows-333333?style=flat-square" alt="Multi-Agent Workflows"/>
+</p>
 
 ---
 
-## 📚 Engineering Principles
+## How I Approach Engineering
 
-- Clean Architecture & Domain-Driven Design
-- Event-Driven Communication
-- Idempotent & Resilient Message Processing
-- Distributed Systems Design
-- Integration Testing with Real State Validation
-- Semantic Release & CI/CD Automation
-- Cloud-native Architectures
-- Observability & Reliability
-- Continuous Improvement & Developer Experience
+**Business Impact First**
 
----
+Technology should solve meaningful problems, not introduce unnecessary complexity.
 
-## 🔬 Currently Exploring
+**Reliability by Design**
 
-- Functional Programming
-- Clojure
-- Datomic
-- Temporal Databases
-- AI-Assisted Software Engineering
-- Multi-Agent Workflows
-- Developer Productivity
-- System Design & Distributed Architectures
+Idempotency, fault tolerance, observability, and predictable failure handling are fundamental.
+
+**Simple, Maintainable Architecture**
+
+Good abstractions should make systems easier to understand, operate, and evolve.
+
+**Ownership Beyond Implementation**
+
+Engineering includes understanding trade-offs, measuring outcomes, and operating what we build.
+
+**Continuous Improvement**
+
+Better tooling, automation, and engineering practices should compound over time.
 
 ---
 
-## 💭 Philosophy
+## Currently Exploring
+
+| Area | Focus |
+|------|-------|
+| **Functional Programming** | Clojure, immutability, functional system design |
+| **Temporal Databases** | Datomic, temporal data models |
+| **Applied AI** | LLM applications, MCP servers, intelligent automation |
+| **Agentic Engineering** | Multi-agent workflows, AI coding agents |
+| **Distributed Systems** | Consistency models, resilience, scalable architectures |
+
+---
+
+## Engineering Philosophy
+
+<div align="center">
 
 > Build simple systems when possible.
 >
 > Build reliable systems when necessary.
 >
-> Always optimize for maintainability over cleverness.
+> Engineer for long-term impact.
+
+</div>
 
 ---
 
-## 🤝 Connect
+## Let's Connect
+
+I'm always interested in discussing **distributed systems, backend architecture, fintech infrastructure, and applied AI**.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/filipe-paixão/" target="_blank">
-    <img
-      alt="LinkedIn"
-      title="Connect with me on LinkedIn"
-      src="https://img.shields.io/badge/LinkedIn-Filipe_Paixão-blue?style=for-the-badge&logo=linkedin"
-    />
+  <a href="https://www.linkedin.com/in/filipe-paixão/">
+    <img src="https://img.shields.io/badge/LinkedIn-Filipe_Paixão-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
+
+<div align="center">
+
+**Engineering what matters.**
+
+</div>
