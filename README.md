@@ -3,7 +3,7 @@
 
 # Filipe Paixão
 
-### Tech Manager && Software Engineer · Backend & Distributed Systems · Applied AI
+### Tech Manager & Software Engineer · Backend & Distributed Systems · Applied AI
 
 **Building reliable software systems that solve complex problems and deliver measurable business impact.**
 
